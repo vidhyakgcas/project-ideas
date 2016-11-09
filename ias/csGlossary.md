@@ -25,14 +25,14 @@ Inspired by
 | Term          | Description |
 |---------------|:------------|
 |Object| Objects are the coupling of Function and Data 
-|OOP _(PDS-2)_| Object oriented programming concepts including encapsulation, inheritance and [polymorphism](http://bit.ly/PolyVideoKG) ; a C++ STL graph implementation for a [family tree](http://www.boost.org/doc/libs/1_62_0/libs/graph/example/family-tree-eg.cpp)
+|OOP _(PDS-2)_| Object oriented programming concepts including encapsulation, inheritance, abstraction and [polymorphism](http://bit.ly/PolyVideoKG) ; a C++ STL graph implementation for a [family tree](http://www.boost.org/doc/libs/1_62_0/libs/graph/example/family-tree-eg.cpp)
 |Data Structure _(PDS_1)_| Specific programming structures used for implementing abstract data type like a [graph] ADT; an array, a linked list, a hashmap; here are some new [functional data structures](http://bit.ly/functionalDS)|
 |[Constructs] _(FOCP)_ | Building blocks of a program - there are 7 fundamental ones (variables, sequences, selection, repetition, function (aka sub-routines), indirection and recursion); and then there are [31 variants]
 |Problem sets | A carefully curated set of problems to achieve specific learning outcomes; increase your familiarity C language constructs by tackling the problem set at http://bit.ly/kitepc1  | 
 |Programming| The _art_ of writing code to accomplish problem solving using efficient algorithms |
 |TDD | Test driven development, an important coding skill that is recommended for fresh talent that is entering the industry |
 |API | Application Programming Interface, the implementation of an algorithm in a specific language/technology; The API in the [APIs Are Eating The World]
-|Memory| Physical entities (bits, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
+|Memory| Physical entities (bits, bytes, nibbles, CPU registers, cache, RAM, disk, tape) that help store and retrieve data 
 
 ### Interesting! 
 | Term          | Description |
